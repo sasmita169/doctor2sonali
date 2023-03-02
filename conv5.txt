@@ -1,0 +1,319 @@
+Case: M/19, White, Right chest pain with decreased oxygenation
+DOCTOR: Good afternoon. You look so out of breath. Are you OK?
+PATIENT: No doctor, I’m having difficulty in breathing.
+DOCTOR: Let me check your arterial oxygen (Check using Pulse Oximeter). It’s a little bit lower than normal.
+Don’t worry, I’ve already ordered oxygen for you because the nurse already told me earlier that you’re having
+difficulty in breathing. The oxygen should be here any minute soon.
+PATIENT: Thank you, doctor.
+DOCTOR: Aside from difficulty in breathing, what are the things that are bothering you right now?
+PATIENT: I’m also having chest pain.
+DOCTOR: I see. So is it manageable?
+PATIENT: No doctor.
+DOCTOR: Could you tell me exactly where the pain is?
+PATIENT: It’s on my right chest.
+DOCTOR: Can you still remember when it started?
+PATIENT: It started four hours ago.
+DOCTOR: Did it start all of a sudden or gradually?
+PATIENT: It was very sudden.
+DOCTOR: What were you doing when the pain started?
+PATIENT: I was reading a newspaper during breakfast four hours ago.
+DOCTOR: Did you experience any trauma recently?
+PATIENT: No doctor.
+DOCTOR: Is the pain consistent or intermittent?
+PATIENT: It’s on and off doctor.
+DOCTOR: But are you feeling better now or worse?
+PATIENT: I feel worse each time I take a deep breath.
+DOCTOR: What is the pain like? Is it sharp? Dull? Pressure-like? Or is it similar to indigestion? (Ask each
+symptom one by one)
+PATIENT: It’s a pressure like pain
+DOCTOR: Is there anything else that makes the pain worse? Like cough or positional changes? (Ask each
+question one by one)
+PATIENT: It becomes worse each time I move or take a deep breath.
+DOCTOR: But is there anything that makes the pain better?
+PATIENT: Yes Doctor. I feel a little better each time I take anti-coagulants.
+DOCTOR: Do you have any other symptoms like shortness of breath? Cough? Dizziness? Fever? Chills?
+Runny nose? Sweating? Nausea/vomiting? Diarrhea/constipation? (Ask each symptom one by one)
+PATIENT: My heart beats faster than usual, I feel dizzy at times together with low blood pressure, my
+temperature goes up and I sometimes catch my breath.
+DOCTOR: Don’t you feel any weird heart beats?
+PATIENT: No but my heart beats fast.
+DOCTOR: Do you have any other illness like Cancer? Stroke? Blood clot or what we call deep vein
+thrombosis? (Ask each symptom one by one)
+PATIENT: Luckily, I don’t have any of those.
+DOCTOR-PATIENT CONVERSATION
+DOCTOR: What about past illness?
+PATIENT: No, doctor.
+DOCTOR: Have you had any surgeries recently?
+PATIENT: No, doctor.
+DOCTOR: Are you taking any medications right now?
+PATIENT: Yes, doctor.
+DOCTOR: Do you have any food or drug allergies?
+PATIENT: No, doctor.
+DOCTOR: Is there anybody in your family who is experiencing the same symptom?
+PATIENT: Yes, doctor.
+DOCTOR: Is there anybody in your family having problems in the lungs?
+PATIENT: No, doctor.
+DOCTOR: Anybody had a cancer in the past?
+PATIENT: My father has lung cancer.
+DOCTOR: Is there anything that I missed out? Nothing else that you think I should know? (Ask each question
+one by one)
+PATIENT: No. I think that’s all.
+DOCTOR: Now, I’d like to examine you a little bit. Is it OK with you?
+PATIENT: No problem.
+(Sample summary )
+DOCTOR: (After doing physical assessment) OK, Mr. Jones. According to my assessment, the most likely
+source of your symptoms is the so-called pulmonary embolism. It is a little clot blocking your blood vessels
+going to the lungs. A part of your lungs collapsed which resulted to the symptoms that you are showing right
+now. But we are not certain yet if it is really pulmonary embolism. Other possible disorders are pneumonia and
+pneumothorax. The Lungs are covered with 2 layers of membranes but there is not space between these layers.
+Once the air gets in between the layers for some reasons, chest pain happens and that is what you are
+experiencing right now which is what we called pneumothorax. It is less likely to happen but there are still
+chances that heart problem could be the cause like myocardial infarction. To get an accurate diagnosis, I’d like
+to run some tests such as ECG, chest X-RAY and some blood tests. You might also need some more
+complicated test later on. Do you have any questions?
+PATIENT: Can you at least ease my pain right now? Can you give me some painkillers?
+DOCTOR: First sample answer: I know you are in a lot of pain right now. But if I give you painkillers before
+evaluating your symptoms, it would be too difficult to get a right diagnosis. I’ll do my best to do this as quickly
+as possible and try to ease your pain right after. Could you endure it a little more? I’m so sorry about your pain.
+Second sample answer: I know that you are under a lot of pain right now. However, giving you any medication
+will alter your symptoms and it will interfere with the evaluation. It will only take a few minutes. I am trying to
+give you the best treatment possible. And I promise to give you medication after I am done. So please bear with Case: M/19, White, Right chest pain with decreased oxygenation
+DOCTOR: Good afternoon. You look so out of breath. Are you OK?
+PATIENT: No doctor, I’m having difficulty in breathing.
+DOCTOR: Let me check your arterial oxygen (Check using Pulse Oximeter). It’s a little bit lower than normal.
+Don’t worry, I’ve already ordered oxygen for you because the nurse already told me earlier that you’re having
+difficulty in breathing. The oxygen should be here any minute soon.
+PATIENT: Thank you, doctor.
+DOCTOR: Aside from difficulty in breathing, what are the things that are bothering you right now?
+PATIENT: I’m also having chest pain.
+DOCTOR: I see. So is it manageable?
+PATIENT: No doctor.
+DOCTOR: Could you tell me exactly where the pain is?
+PATIENT: It’s on my right chest.
+DOCTOR: Can you still remember when it started?
+PATIENT: It started four hours ago.
+DOCTOR: Did it start all of a sudden or gradually?
+PATIENT: It was very sudden.
+DOCTOR: What were you doing when the pain started?
+PATIENT: I was reading a newspaper during breakfast four hours ago.
+DOCTOR: Did you experience any trauma recently?
+PATIENT: No doctor.
+DOCTOR: Is the pain consistent or intermittent?
+PATIENT: It’s on and off doctor.
+DOCTOR: But are you feeling better now or worse?
+PATIENT: I feel worse each time I take a deep breath.
+DOCTOR: What is the pain like? Is it sharp? Dull? Pressure-like? Or is it similar to indigestion? (Ask each
+symptom one by one)
+PATIENT: It’s a pressure like pain
+DOCTOR: Is there anything else that makes the pain worse? Like cough or positional changes? (Ask each
+question one by one)
+PATIENT: It becomes worse each time I move or take a deep breath.
+DOCTOR: But is there anything that makes the pain better?
+PATIENT: Yes Doctor. I feel a little better each time I take anti-coagulants.
+DOCTOR: Do you have any other symptoms like shortness of breath? Cough? Dizziness? Fever? Chills?
+Runny nose? Sweating? Nausea/vomiting? Diarrhea/constipation? (Ask each symptom one by one)
+PATIENT: My heart beats faster than usual, I feel dizzy at times together with low blood pressure, my
+temperature goes up and I sometimes catch my breath.
+DOCTOR: Don’t you feel any weird heart beats?
+PATIENT: No but my heart beats fast.
+DOCTOR: Do you have any other illness like Cancer? Stroke? Blood clot or what we call deep vein
+thrombosis? (Ask each symptom one by one)
+PATIENT: Luckily, I don’t have any of those.
+DOCTOR-PATIENT CONVERSATION
+DOCTOR: What about past illness?
+PATIENT: No, doctor.
+DOCTOR: Have you had any surgeries recently?
+PATIENT: No, doctor.
+DOCTOR: Are you taking any medications right now?
+PATIENT: Yes, doctor.
+DOCTOR: Do you have any food or drug allergies?
+PATIENT: No, doctor.
+DOCTOR: Is there anybody in your family who is experiencing the same symptom?
+PATIENT: Yes, doctor.
+DOCTOR: Is there anybody in your family having problems in the lungs?
+PATIENT: No, doctor.
+DOCTOR: Anybody had a cancer in the past?
+PATIENT: My father has lung cancer.
+DOCTOR: Is there anything that I missed out? Nothing else that you think I should know? (Ask each question
+one by one)
+PATIENT: No. I think that’s all.
+DOCTOR: Now, I’d like to examine you a little bit. Is it OK with you?
+PATIENT: No problem.
+(Sample summary )
+DOCTOR: (After doing physical assessment) OK, Mr. Jones. According to my assessment, the most likely
+source of your symptoms is the so-called pulmonary embolism. It is a little clot blocking your blood vessels
+going to the lungs. A part of your lungs collapsed which resulted to the symptoms that you are showing right
+now. But we are not certain yet if it is really pulmonary embolism. Other possible disorders are pneumonia and
+pneumothorax. The Lungs are covered with 2 layers of membranes but there is not space between these layers.
+Once the air gets in between the layers for some reasons, chest pain happens and that is what you are
+experiencing right now which is what we called pneumothorax. It is less likely to happen but there are still
+chances that heart problem could be the cause like myocardial infarction. To get an accurate diagnosis, I’d like
+to run some tests such as ECG, chest X-RAY and some blood tests. You might also need some more
+complicated test later on. Do you have any questions?
+PATIENT: Can you at least ease my pain right now? Can you give me some painkillers?
+DOCTOR: First sample answer: I know you are in a lot of pain right now. But if I give you painkillers before
+evaluating your symptoms, it would be too difficult to get a right diagnosis. I’ll do my best to do this as quickly
+as possible and try to ease your pain right after. Could you endure it a little more? I’m so sorry about your pain.
+Second sample answer: I know that you are under a lot of pain right now. However, giving you any medication
+will alter your symptoms and it will interfere with the evaluation. It will only take a few minutes. I am trying to
+give you the best treatment possible. And I promise to give you medication after I am done. So please bear with Case: M/19, White, Right chest pain with decreased oxygenation
+DOCTOR: Good afternoon. You look so out of breath. Are you OK?
+PATIENT: No doctor, I’m having difficulty in breathing.
+DOCTOR: Let me check your arterial oxygen (Check using Pulse Oximeter). It’s a little bit lower than normal.
+Don’t worry, I’ve already ordered oxygen for you because the nurse already told me earlier that you’re having
+difficulty in breathing. The oxygen should be here any minute soon.
+PATIENT: Thank you, doctor.
+DOCTOR: Aside from difficulty in breathing, what are the things that are bothering you right now?
+PATIENT: I’m also having chest pain.
+DOCTOR: I see. So is it manageable?
+PATIENT: No doctor.
+DOCTOR: Could you tell me exactly where the pain is?
+PATIENT: It’s on my right chest.
+DOCTOR: Can you still remember when it started?
+PATIENT: It started four hours ago.
+DOCTOR: Did it start all of a sudden or gradually?
+PATIENT: It was very sudden.
+DOCTOR: What were you doing when the pain started?
+PATIENT: I was reading a newspaper during breakfast four hours ago.
+DOCTOR: Did you experience any trauma recently?
+PATIENT: No doctor.
+DOCTOR: Is the pain consistent or intermittent?
+PATIENT: It’s on and off doctor.
+DOCTOR: But are you feeling better now or worse?
+PATIENT: I feel worse each time I take a deep breath.
+DOCTOR: What is the pain like? Is it sharp? Dull? Pressure-like? Or is it similar to indigestion? (Ask each
+symptom one by one)
+PATIENT: It’s a pressure like pain
+DOCTOR: Is there anything else that makes the pain worse? Like cough or positional changes? (Ask each
+question one by one)
+PATIENT: It becomes worse each time I move or take a deep breath.
+DOCTOR: But is there anything that makes the pain better?
+PATIENT: Yes Doctor. I feel a little better each time I take anti-coagulants.
+DOCTOR: Do you have any other symptoms like shortness of breath? Cough? Dizziness? Fever? Chills?
+Runny nose? Sweating? Nausea/vomiting? Diarrhea/constipation? (Ask each symptom one by one)
+PATIENT: My heart beats faster than usual, I feel dizzy at times together with low blood pressure, my
+temperature goes up and I sometimes catch my breath.
+DOCTOR: Don’t you feel any weird heart beats?
+PATIENT: No but my heart beats fast.
+DOCTOR: Do you have any other illness like Cancer? Stroke? Blood clot or what we call deep vein
+thrombosis? (Ask each symptom one by one)
+PATIENT: Luckily, I don’t have any of those.
+DOCTOR-PATIENT CONVERSATION
+DOCTOR: What about past illness?
+PATIENT: No, doctor.
+DOCTOR: Have you had any surgeries recently?
+PATIENT: No, doctor.
+DOCTOR: Are you taking any medications right now?
+PATIENT: Yes, doctor.
+DOCTOR: Do you have any food or drug allergies?
+PATIENT: No, doctor.
+DOCTOR: Is there anybody in your family who is experiencing the same symptom?
+PATIENT: Yes, doctor.
+DOCTOR: Is there anybody in your family having problems in the lungs?
+PATIENT: No, doctor.
+DOCTOR: Anybody had a cancer in the past?
+PATIENT: My father has lung cancer.
+DOCTOR: Is there anything that I missed out? Nothing else that you think I should know? (Ask each question
+one by one)
+PATIENT: No. I think that’s all.
+DOCTOR: Now, I’d like to examine you a little bit. Is it OK with you?
+PATIENT: No problem.
+(Sample summary )
+DOCTOR: (After doing physical assessment) OK, Mr. Jones. According to my assessment, the most likely
+source of your symptoms is the so-called pulmonary embolism. It is a little clot blocking your blood vessels
+going to the lungs. A part of your lungs collapsed which resulted to the symptoms that you are showing right
+now. But we are not certain yet if it is really pulmonary embolism. Other possible disorders are pneumonia and
+pneumothorax. The Lungs are covered with 2 layers of membranes but there is not space between these layers.
+Once the air gets in between the layers for some reasons, chest pain happens and that is what you are
+experiencing right now which is what we called pneumothorax. It is less likely to happen but there are still
+chances that heart problem could be the cause like myocardial infarction. To get an accurate diagnosis, I’d like
+to run some tests such as ECG, chest X-RAY and some blood tests. You might also need some more
+complicated test later on. Do you have any questions?
+PATIENT: Can you at least ease my pain right now? Can you give me some painkillers?
+DOCTOR: First sample answer: I know you are in a lot of pain right now. But if I give you painkillers before
+evaluating your symptoms, it would be too difficult to get a right diagnosis. I’ll do my best to do this as quickly
+as possible and try to ease your pain right after. Could you endure it a little more? I’m so sorry about your pain.
+Second sample answer: I know that you are under a lot of pain right now. However, giving you any medication
+will alter your symptoms and it will interfere with the evaluation. It will only take a few minutes. I am trying to
+give you the best treatment possible. And I promise to give you medication after I am done. So please bear with 
+Case: M/19, White, Right chest pain with decreased oxygenation
+DOCTOR: Good afternoon. You look so out of breath. Are you OK?
+PATIENT: No doctor, I’m having difficulty in breathing.
+DOCTOR: Let me check your arterial oxygen (Check using Pulse Oximeter). It’s a little bit lower than normal.
+Don’t worry, I’ve already ordered oxygen for you because the nurse already told me earlier that you’re having
+difficulty in breathing. The oxygen should be here any minute soon.
+PATIENT: Thank you, doctor.
+DOCTOR: Aside from difficulty in breathing, what are the things that are bothering you right now?
+PATIENT: I’m also having chest pain.
+DOCTOR: I see. So is it manageable?
+PATIENT: No doctor.
+DOCTOR: Could you tell me exactly where the pain is?
+PATIENT: It’s on my right chest.
+DOCTOR: Can you still remember when it started?
+PATIENT: It started four hours ago.
+DOCTOR: Did it start all of a sudden or gradually?
+PATIENT: It was very sudden.
+DOCTOR: What were you doing when the pain started?
+PATIENT: I was reading a newspaper during breakfast four hours ago.
+DOCTOR: Did you experience any trauma recently?
+PATIENT: No doctor.
+DOCTOR: Is the pain consistent or intermittent?
+PATIENT: It’s on and off doctor.
+DOCTOR: But are you feeling better now or worse?
+PATIENT: I feel worse each time I take a deep breath.
+DOCTOR: What is the pain like? Is it sharp? Dull? Pressure-like? Or is it similar to indigestion? (Ask each
+symptom one by one)
+PATIENT: It’s a pressure like pain
+DOCTOR: Is there anything else that makes the pain worse? Like cough or positional changes? (Ask each
+question one by one)
+PATIENT: It becomes worse each time I move or take a deep breath.
+DOCTOR: But is there anything that makes the pain better?
+PATIENT: Yes Doctor. I feel a little better each time I take anti-coagulants.
+DOCTOR: Do you have any other symptoms like shortness of breath? Cough? Dizziness? Fever? Chills?
+Runny nose? Sweating? Nausea/vomiting? Diarrhea/constipation? (Ask each symptom one by one)
+PATIENT: My heart beats faster than usual, I feel dizzy at times together with low blood pressure, my
+temperature goes up and I sometimes catch my breath.
+DOCTOR: Don’t you feel any weird heart beats?
+PATIENT: No but my heart beats fast.
+DOCTOR: Do you have any other illness like Cancer? Stroke? Blood clot or what we call deep vein
+thrombosis? (Ask each symptom one by one)
+PATIENT: Luckily, I don’t have any of those.
+DOCTOR-PATIENT CONVERSATION
+DOCTOR: What about past illness?
+PATIENT: No, doctor.
+DOCTOR: Have you had any surgeries recently?
+PATIENT: No, doctor.
+DOCTOR: Are you taking any medications right now?
+PATIENT: Yes, doctor.
+DOCTOR: Do you have any food or drug allergies?
+PATIENT: No, doctor.
+DOCTOR: Is there anybody in your family who is experiencing the same symptom?
+PATIENT: Yes, doctor.
+DOCTOR: Is there anybody in your family having problems in the lungs?
+PATIENT: No, doctor.
+DOCTOR: Anybody had a cancer in the past?
+PATIENT: My father has lung cancer.
+DOCTOR: Is there anything that I missed out? Nothing else that you think I should know? (Ask each question
+one by one)
+PATIENT: No. I think that’s all.
+DOCTOR: Now, I’d like to examine you a little bit. Is it OK with you?
+PATIENT: No problem.
+(Sample summary )
+DOCTOR: (After doing physical assessment) OK, Mr. Jones. According to my assessment, the most likely
+source of your symptoms is the so-called pulmonary embolism. It is a little clot blocking your blood vessels
+going to the lungs. A part of your lungs collapsed which resulted to the symptoms that you are showing right
+now. But we are not certain yet if it is really pulmonary embolism. Other possible disorders are pneumonia and
+pneumothorax. The Lungs are covered with 2 layers of membranes but there is not space between these layers.
+Once the air gets in between the layers for some reasons, chest pain happens and that is what you are
+experiencing right now which is what we called pneumothorax. It is less likely to happen but there are still
+chances that heart problem could be the cause like myocardial infarction. To get an accurate diagnosis, I’d like
+to run some tests such as ECG, chest X-RAY and some blood tests. You might also need some more
+complicated test later on. Do you have any questions?
+PATIENT: Can you at least ease my pain right now? Can you give me some painkillers?
+DOCTOR: First sample answer: I know you are in a lot of pain right now. But if I give you painkillers before
+evaluating your symptoms, it would be too difficult to get a right diagnosis. I’ll do my best to do this as quickly
+as possible and try to ease your pain right after. Could you endure it a little more? I’m so sorry about your pain.
+Second sample answer: I know that you are under a lot of pain right now. However, giving you any medication
+will alter your symptoms and it will interfere with the evaluation. It will only take a few minutes. I am trying to give you the best treatment possible. And I promise to give you medication after I am done. So please bear with me. I won’t take long. Any other questions?
+PATIENT: No
+DOCTOR: As soon as I get the results, I’ll let you know.

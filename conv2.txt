@@ -1,0 +1,40 @@
+DOCTOR-PATIENT CONVERSATION
+Medtalk
+Case: Mr Banes/ Asian, 33, cough
+Doctor: Good day Mr Banes! What brought you here today?
+Patient: (coughing) I’m sorry doctor. I’ve been coughing for about a week or two now.
+Doctor: Would you like a glass of water?
+Patient: Yes, please. I think my cough got worst overtime especially at night. There’s no phlegm present though.
+I took some over-the -counter cough medication to relieve it.
+Doctor: Are you feeling something else aside from coughing?
+Patient: I had colds and a sore throat prior to having cough.
+Doctor: Have you got allergies?
+Patient: None that I’m aware of.
+Doctor: Have you had hospitalizations before?
+Patient: Yes. I was confined due to fatigue. Too much work, you know?
+Doctor: I’d like to ask some personal questions to help me figure this out better if you don’t mind me asking.
+Patient: I don’t mind at all.
+Doctor: Is there anybody around you being sick these days?
+Patient: Yeah. Colds and cough are quite pestering a number of my household lately.
+Doctor: What do you do for a living?
+Patient: I work in a construction site as a mason. I tend to overwork at times. That’s probably the reason I got
+hospitalized before.
+Doctor: Do you drink? DO you smoke?
+Patient: Yes, I do both. I like having a drink or two in a week and I smoke a minimum of 8-10 sticks a day.
+Doctor: Now, I want to do some examinations on you. Is it fine with you?
+Patient: Yes, it’s fine.
+Doctor: First, I’d like to look at your throat. Please open your mouth.
+Next, I’d like to press on your cheekbones.
+Now, I’ll check if you have swollen glands around your neck and shoulders.
+Now, I’ll be listening to your lungs.
+Please deep breath and I’ll listen to your lungs. (Auscultate)
+Now, I’d examine your abdominal area. Please lie down.
+Now, I’ll examine your legs and arms.
+I’m done. Thank you for letting me examine you.
+Patient: So what’s wrong with me doctor?
+Doctor: Mr Banes, I think there are a few things that might have caused your cough. A cough related to upper
+respiratory infection could be for one. It’s the biggest possibility we’ve got now. Asthma, acid reflux, or other
+infections that might have been triggered by your occupation could also be the cause. I need to rule out first the
+exact cause though so I’ll be running some blood works and chest X ray on you. And depending on the results,you may need additional tests later. In the meantime, I’ll give you some medications to easy out your cough.
+Do you have any questions?
+Patient: None for now. Thank you.
